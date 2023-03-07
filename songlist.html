@@ -16,8 +16,8 @@ function changeSong(songname) {
   ply = document.getElementById("player");
   ply.stop();
   ply.src = songname;
+  setTimeout(() => {  ply.start(); }, 4000);
   
-  ply.start();
 }
 </script>
 
