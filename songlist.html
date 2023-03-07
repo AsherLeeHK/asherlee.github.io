@@ -6,10 +6,16 @@
     <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
     
     <midi-player
-      sound-font visualizer="#myVisualizer" id="player">
+     src="midi_dir/1848_benbolt_kneass_MIDI.mid" sound-font visualizer="#myVisualizer" id="player">
     </midi-player>
     
     <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
+
+<script>
+function changeSong(songname) {
+  player.src = songname;
+}
+</script>
 
   </head>
   <body>
@@ -586,7 +592,7 @@
       <tr>
         <td>Ben Bolt (Kneass)</td>
         <td><a href="midi_dir/1848_benbolt_kneass_MIDI.mid">MIDI file</a><br>
-        <button onclick="player.src = "midi_dir/1848_benbolt_kneass_MIDI.mid"; " >Click me</button>
+        <button onclick="changeSong("1848_benbolt_kneass_MIDI.mid")" >Click me</button>
         </td>
         <td><a href="https://www.musicanet.org/robokopp/usa/benbolt.htm">MIDI by Tomaschewski</a></td>
       </tr>
