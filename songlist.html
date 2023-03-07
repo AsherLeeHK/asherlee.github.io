@@ -16,8 +16,7 @@ function changeSong(songname) {
   ply = document.getElementById("player");
   ply.stop();
   ply.src = songname;
-  ply.reload();
-  setTimeout(() => {  console.log("Load finished!"); }, 3000);
+  
   ply.start();
 }
 </script>
