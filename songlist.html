@@ -13,11 +13,11 @@
 
 <script>
 function changeSong(songname) {
-  alert("I am an alert box!!");
   ply = document.getElementById("player");
   ply.stop();
   ply.src = songname;
   ply.reload();
+  setTimeout(() => {  console.log("Load finished!"); }, 3000);
   ply.start();
 }
 </script>
@@ -204,7 +204,8 @@ function changeSong(songname) {
       
       <tr>
         <td>My Days Have Been So Wondrous Free</td>
-        <td><a href="midi_dir/1759_mydayshavebeensowondrousfree_MIDI.mid">MIDI file</a></td>
+        <td><a href="midi_dir/1759_mydayshavebeensowondrousfree_MIDI.mid">MIDI file</a><br>
+        <button onclick="changeSong('midi_dir/1759_mydayshavebeensowondrousfree_MIDI.mid')" >Play MIDI</button></td>
         <td></td>
       </tr>
       
@@ -228,7 +229,8 @@ function changeSong(songname) {
       
       <tr>
         <td>Afton Water (Traditional Scottish Tune)</td>
-        <td><a href="midi_dir/1792_afton_water_trad_scottish_MIDI.mid">MIDI file</a></td>
+        <td><a href="midi_dir/1792_afton_water_trad_scottish_MIDI.mid">MIDI file</a><br>
+        <button onclick="changeSong('midi_dir/1792_afton_water_trad_scottish_MIDI.mid')" >Play MIDI</button></td>
         <td></td>
       </tr>
       
@@ -384,7 +386,8 @@ function changeSong(songname) {
       
       <tr>
         <td>The Hunters of Kentucky</td>
-        <td><a href="midi_dir/1821_huntersofkentucky_MIDI.mid">MIDI file</a></td>
+        <td><a href="midi_dir/1821_huntersofkentucky_MIDI.mid">MIDI file</a><br>
+        <button onclick="changeSong('midi_dir/1821_huntersofkentucky_MIDI.mid')" >Play MIDI</button></td>
         <td></td>
       </tr>
       
@@ -462,7 +465,9 @@ function changeSong(songname) {
       
       <tr>
         <td>Cherry Ripe (Horn)</td>
-        <td><a href="midi_dir/1825_cherryripe_MIDI.mid">MIDI file</a></td>
+        <td><a href="midi_dir/1825_cherryripe_MIDI.mid">MIDI file</a><br>
+        <button onclick="changeSong('midi_dir/1825_cherryripe_MIDI.mid')" >Play MIDI</button>
+        </td>
         <td></td>
       </tr>
       
@@ -523,7 +528,8 @@ function changeSong(songname) {
       
       <tr>
         <td>Flow Gently Sweet Afton (Spilman)</td>
-        <td><a href="midi_dir/1837_flow_gently_sweet_afton_spilman_MIDI.mid">MIDI file</a></td>
+        <td><a href="midi_dir/1837_flow_gently_sweet_afton_spilman_MIDI.mid">MIDI file</a><br>
+        <button onclick="changeSong('midi_dir/1837_flow_gently_sweet_afton_spilman_MIDI.mid')" >Play MIDI</button></td>
         <td></td>
       </tr>
       
@@ -584,7 +590,7 @@ function changeSong(songname) {
       <tr>
         <td>The Blue Juniata</td>
         <td><a href="midi_dir/1844_bluejuniata_MIDI.mid">MIDI file</a><br>
-        <button onclick="changeSong('midi_dir/1844_bluejuniata_MIDI.mid')" >Click me</button></td>
+        <button onclick="changeSong('midi_dir/1844_bluejuniata_MIDI.mid')" >Play MIDI</button></td>
         <td></td>
       </tr>
    
@@ -597,7 +603,7 @@ function changeSong(songname) {
       <tr>
         <td>Ben Bolt (Kneass)</td>
         <td><a href="midi_dir/1848_benbolt_kneass_MIDI.mid">MIDI file</a><br>
-        <button onclick="changeSong('midi_dir/1848_benbolt_kneass_MIDI.mid')" >Click me</button>
+        <button onclick="changeSong('midi_dir/1848_benbolt_kneass_MIDI.mid')" >Play MIDI</button>
         </td>
         <td><a href="https://www.musicanet.org/robokopp/usa/benbolt.htm">MIDI by Tomaschewski</a></td>
       </tr>
@@ -629,7 +635,7 @@ function changeSong(songname) {
       <tr>
         <td>Afton Water (Hume)</td>
         <td><a href="midi_dir/1850_afton_water_hume_MIDI.mid">MIDI file</a><br>
-        <button onclick="alert('sjkjkjwkejrw')" >Click me</button>
+        <button onclick="changeSong('midi_dir/1850_afton_water_hume_MIDI.mid')" >Play MIDI</button>
         </td>
         <td></td>
       </tr>
