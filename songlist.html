@@ -13,10 +13,12 @@
 
 <script>
 function changeSong(songname) {
-  player.stop();
-  player.src = songname;
-  player.reload();
-  player.start();
+  alert("I am an alert box!!")
+  ply = document.getElementById("player");
+  ply.stop();
+  ply.src = songname;
+  ply.reload();
+  ply.start();
 }
 </script>
 
