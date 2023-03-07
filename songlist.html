@@ -13,7 +13,10 @@
 
 <script>
 function changeSong(songname) {
+  player.stop();
   player.src = songname;
+  player.reload();
+  player.start();
 }
 </script>
 
