@@ -7,6 +7,7 @@ Special Collection Lists (to be finished):
 
 Adam Geibel (1855-1933)<br>
 Alfred Lee (musical hall) (1839-1906)<br>
+Alfred Scott Scott-Gatty (1847-1918)<br>
 Arthur Henry Behrend (Behrend, A. H.) (1853-1935)<br>
 Arthur Lloyd (musical hall) (1839-1904)<br>
 Charles Crozat Converse (1832-1918)<br>
