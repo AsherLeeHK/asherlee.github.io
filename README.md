@@ -6,6 +6,8 @@ Visit the link https://asherleehk.github.io/victorian-music-archive/songlist.htm
 Special Collection Lists (to be finished):
 
 Adam Geibel (1855-1933)<br>
+Alfred Lee (musical hall) (1839-1906)<br>
+Arthur Lloyd (musical hall) (1839-1904)<br>
 Charles Crozat Converse (1832-1918)<br>
 Charles Gounod (1818-1893)
 Charles Grobe (instrumental fantasia) (1817-1879)<br>
@@ -18,11 +20,14 @@ George Linley (1797-1865)<br>
 Geoffrey Turton Shaw (1879-1943)<br>
 Irving Berlin (1888-1989)<br>
 J. W. Wheeler (active 1880s-1900s)<br>
+James Alan Bland (1854-1911)<br>
 John Blockley (1801-1882)<br>
+John Pond Ordway (1824-1880)<br>
 John Robson Sweney (1837-1899)<br>
 Joseph Paul Skelly (1850-1895)<br>
 Michael William Balfe (1808-1870)<br>
 Michael Maybrick (Stephen Adams) (1841-1913)<br>
+Nelson Kneass (1823-1869)
 Ralph Vaughan Williams (1872-1958)<br>
 Stephen Ralph Glover (1812 or 1813-1870)<br>
 Will Lamartine Thompson (1847-1909)<br>
