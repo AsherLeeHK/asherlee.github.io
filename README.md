@@ -21,6 +21,7 @@ Charlotte Alington Barnard (Claribel) (1830-1869)<br>
 Francesco Paolo Tosti (1846-1916)<br>
 Franz Abt (1819-1885)<br>
 Frederick Nicholls Crouch (1808-1896)<br>
+George Arthur Barker (1812-1876)<br>
 George Gershwin (1898-1937)<br>
 George Linley (1797-1865)<br>
 Geoffrey Turton Shaw (1879-1943)<br>
