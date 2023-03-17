@@ -30,6 +30,7 @@ John Blockley (1801-1882)<br>
 John Pond Ordway (1824-1880)<br>
 John Robson Sweney (1837-1899)<br>
 Joseph Paul Skelly (1850-1895)<br>
+Liza Lehmann (1861-1918)<br>
 Michael William Balfe (1808-1870)<br>
 Michael Maybrick (Stephen Adams) (1841-1913)<br>
 Nathan Barker (N Barker) (active 1840s-1860s) <br>
