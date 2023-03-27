@@ -41,6 +41,7 @@ Michael Maybrick (Stephen Adams) (1841-1913)<br>
 Nathan Barker (N Barker) (active 1840s-1860s) <br>
 Nelson Kneass (1823-1869)<br>
 Ralph Vaughan Williams (1872-1958)<br>
+Sidney Nelson (S. Nelson) (1800-1862)<br>
 Stephen Ralph Glover (Many are Hudson'ed) (1812 or 1813-1870)<br>
 Will Lamartine Thompson (1847-1909)<br>
 Virginia Gabriel (1825-1877)<br>
