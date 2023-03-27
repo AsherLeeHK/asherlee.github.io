@@ -25,7 +25,8 @@ George Arthur Barker (1812-1876)<br>
 George Gershwin (1898-1937)<br>
 George Linley (1797-1865)<br>
 Geoffrey Turton Shaw (1879-1943)<br>
-Howard Glover (Glover, William Howard)
+George W Persley (Geo W Persley) <br>
+Howard Glover (Glover, William Howard)<br>
 Irving Berlin (1888-1989)<br>
 J. W. Wheeler (active 1880s-1900s)<br>
 James Alan Bland (1854-1911)<br>
