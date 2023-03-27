@@ -18,6 +18,7 @@ Charles Ives (1874-1954) <br>
 Charles Hutchinson Gabriel (Gabriel, Chas H) (1856-1932)<br>
 Charles William Glover (Many are Hudson'ed) (Chas W Glover, C W Glover) (1806-1863)<br>
 Charlotte Alington Barnard (Claribel) (1830-1869)<br>
+Ciro Pinsuti (1829-1888) <br>
 Francesco Paolo Tosti (1846-1916)<br>
 Franz Abt (1819-1885)<br>
 Frederick Nicholls Crouch (1808-1896)<br>
