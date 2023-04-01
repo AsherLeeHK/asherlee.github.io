@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Victorian Music Archive</title>
+    <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
+    
+    <midi-player
+     src="midi_dir/1848_benbolt_kneass_MIDI.mid" sound-font visualizer="#myVisualizer" id="player">
+    </midi-player>
+    
+    <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
+
+<script>
+function changeSong(songname) {
+  ply = document.getElementById("player");
+  ply.stop();
+  ply.src = songname;
+  setTimeout(() => {  ply.start(); }, 4000);
+  
+}
+</script>
+
+  </head>
+  <body>
+    <h1>Charles William Glover (1806-1863)</h1>
+    <p>Song for Charles William Glover<br>(most of his song, along with another Glover (Stephen Glover), are "Hudsoned", aka already transcribed by Robert A. Hudson on IMSLP</p>
+
+    <table border="1">
+      <tr>
+        <th>Song Title</th>
+        <th>Trans. by myself</th>
+        <th>Trans. by others</th>
+      </tr>
+
+<!--Unknown Date-->
+
+      <tr>
+        <th colspan="3">Unknown</th>
+      </tr>
+      
+      <tr>
+        <td>All_Things_Are_Beautiful</td>
+        <td><a href="midi_dir/stephenglover/All_Things_Are_Beautiful.mid">MIDI file</a><br>
+        <button onclick="changeSong('midi_dir/stephenglover/All_Things_Are_Beautiful.mid')">Play MIDI</button></td>
+        <td></td>
+      </tr>
+      
+      <tr>
+        <td>Annie_O'_The_Banks_O'_Dee</td>
+        <td><a href="midi_dir/stephenglover/Annie_O'_The_Banks_O'_Dee.mid">MIDI file</a><br>
+        <button onclick="changeSong('midi_dir/stephenglover/Annie_O'_The_Banks_O'_Dee.mid')">Play MIDI</button></td>
+        <td></td>
+      </tr>
+
+<!--1850-->
+
+      <tr>
+        <th colspan="3">1848</th>
+      </tr>
+      
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+  </body>
+</html>
