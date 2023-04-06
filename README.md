@@ -19,8 +19,10 @@ Charles Hutchinson Gabriel (Gabriel, Chas H) (1856-1932)<br>
 Charles William Glover (Many are Hudson'ed) (Chas W Glover, C W Glover) (1806-1863)<br>
 Charlotte Alington Barnard (Claribel) (1830-1869)<br>
 Ciro Pinsuti (1829-1888) <br>
+David Braham (Hudsoned) <br>
 Francesco Paolo Tosti (1846-1916)<br>
 Franz Abt (1819-1885)<br>
+Frederic Hymen Cowen (1852-1935)<br>
 Frederick Nicholls Crouch (1808-1896)<br>
 George Arthur Barker (1812-1876)<br>
 George Gershwin (1898-1937)<br>
@@ -31,6 +33,7 @@ Howard Glover (Glover, William Howard)<br>
 Irving Berlin (1888-1989)<br>
 J. W. Wheeler (active 1880s-1900s)<br>
 James Alan Bland (1854-1911)<br>
+John Barnett (1802-1890)<br>
 John Blockley (1801-1882)<br>
 John Pond Ordway (1824-1880)<br>
 John Robson Sweney (1837-1899)<br>
