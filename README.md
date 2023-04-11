@@ -20,6 +20,7 @@ Charles William Glover (Many are Hudson'ed) (Chas W Glover, C W Glover) (1806-18
 Charlotte Alington Barnard (Claribel) (1830-1869)<br>
 Ciro Pinsuti (1829-1888) <br>
 David Braham (Hudsoned) <br>
+Eddie Fox (1847-1919) <br>
 Francesco Paolo Tosti (1846-1916)<br>
 Franz Abt (1819-1885)<br>
 Frederic Hymen Cowen (1852-1935)<br>
