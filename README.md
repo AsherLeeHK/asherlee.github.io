@@ -39,6 +39,7 @@ James Alan Bland (1854-1911)<br>
 John Barnett (1802-1890)<br>
 John Blockley (1801-1882)<br>
 John Braham (1847-1919)<br>
+John Church<br>
 John Pond Ordway (1824-1880)<br>
 John Robson Sweney (1837-1899)<br>
 Joseph Paul Skelly (1850-1895)<br>
