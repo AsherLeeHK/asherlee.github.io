@@ -15,11 +15,12 @@ Charles Crozat Converse (1832-1918)<br>
 Charles Gounod (1818-1893)<br>
 Charles Grobe (instrumental fantasia) (1817-1879)<br>
 Charles Ives (1874-1954) <br>
+Charles Kassel Harris (1867-1930) <br>
 Charles Hutchinson Gabriel (Gabriel, Chas H) (1856-1932)<br>
 Charles William Glover (Many are Hudson'ed) (Chas W Glover, C W Glover) (1806-1863)<br>
 Charlotte Alington Barnard (Claribel) (1830-1869)<br>
 Ciro Pinsuti (1829-1888) <br>
-David Braham (Hudsoned) <br>
+David Braham (some Hudsoned) <br>
 Eddie Fox (1847-1919) <br>
 Francesco Paolo Tosti (1846-1916)<br>
 Franz Abt (1819-1885)<br>
@@ -30,6 +31,7 @@ George Gershwin (1898-1937)<br>
 George Linley (1797-1865)<br>
 Geoffrey Turton Shaw (1879-1943)<br>
 George W Persley (Geo W Persley) <br>
+Hart Pease Danks (1834-1903)<br>
 Howard Glover (Glover, William Howard)<br>
 Irving Berlin (1888-1989)<br>
 J. W. Wheeler (active 1880s-1900s)<br>
@@ -45,6 +47,7 @@ Michael William Balfe (1808-1870)<br>
 Michael Maybrick (Stephen Adams) (1841-1913)<br>
 Nathan Barker (N Barker) (active 1840s-1860s) <br>
 Nelson Kneass (1823-1869)<br>
+Paul Dresser (1857-1906)<br>
 Ralph Vaughan Williams (1872-1958)<br>
 Sidney Nelson (S. Nelson) (1800-1862)<br>
 Stephen Ralph Glover (Many are Hudson'ed) (1812 or 1813-1870)<br>
