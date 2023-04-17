@@ -22,6 +22,7 @@ Charlotte Alington Barnard (Claribel) (1830-1869)<br>
 Ciro Pinsuti (1829-1888) <br>
 David Braham (some Hudsoned) <br>
 Eddie Fox (1847-1919) <br>
+Felix McGlennon<br>
 Francesco Paolo Tosti (1846-1916)<br>
 Franz Abt (1819-1885)<br>
 Frederic Hymen Cowen (1852-1935)<br>
@@ -53,5 +54,6 @@ Paul Dresser (1857-1906)<br>
 Ralph Vaughan Williams (1872-1958)<br>
 Sidney Nelson (S. Nelson) (1800-1862)<br>
 Stephen Ralph Glover (Many are Hudson'ed) (1812 or 1813-1870)<br>
+Will D. Cobb(not Wm Cobb)(1876-1930)<br>
 Will Lamartine Thompson (1847-1909)<br>
 Virginia Gabriel (1825-1877)<br>
