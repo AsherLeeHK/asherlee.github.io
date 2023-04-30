@@ -6,10 +6,10 @@
     <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
     
     <midi-player
-     src="midi_dir/1848_benbolt_kneass_MIDI.mid" sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus" sound-font visualizer="staff" id="player">
+     src="midi_dir/1848_benbolt_kneass_MIDI.mid" sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus" sound-font visualizer="#myVisualizer" id="player">
     </midi-player>
     
-    <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
+    <midi-visualizer type="staff" id="myVisualizer"></midi-visualizer>
 
 <script>
 function changeSong(songname) {
