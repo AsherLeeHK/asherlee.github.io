@@ -41,16 +41,19 @@ George Linley (1797-1865)<br>
 Geoffrey Turton Shaw (1879-1943)<br>
 George W Persley (Geo W Persley)<br>
 George William Hunt (c. 1837-1904)<br>
+Gus Edwards (1878-1945)<br>
 Harrison Millard (1830-1895)<br>
 Harry Carroll (1892-1962)<br>
+Harry Von Tilzer (1872-1946)<br>
 Hart Pease Danks (1834-1903)<br>
 Henry Bishop (Many are covered by Hudson) (1786-1855)<br>
 Howard Glover (Glover, William Howard)<br>
 Irving Berlin (1888-1989)<br>
 J. W. Wheeler (active 1880s-1900s)<br>
 James Alan Bland (1854-1911)<br>
-John Hill Hewitt (1801-1890) (See Benjamin Tubb's pdmusic)<br>
 James Hook (1746–1827)<br>
+John Hill Hewitt (1801-1890) (See Benjamin Tubb's pdmusic)<br>
+Jerome Keen (1885-1845)<br>
 John Barnett (1802-1890)<br>
 John Blockley (1801-1882)<br>
 John Braham (1847-1919)<br>
@@ -72,7 +75,6 @@ Robert Morrison Stults (Many are covered by Hudson) (1861-1933) <br>
 Sidney Nelson (S. Nelson) (1800-1862)<br>
 Stephen Collins Foster (see Werner Tomaschewski on musicanet, and Benjamin Tubb's pdmusic) (1826-1864)<br>
 Stephen Ralph Glover (Many are covered by Hudson) (1812 or 1813-1870)<br>
-Will D. Cobb(not Wm Cobb)(1876-1930)<br>
 Will Lamartine Thompson (1847-1909)<br>
 William Shakespeare (See Benjamin Tubb's pdmusic)(1837-1907)<br>
 Victor August Herbert (See Benjamin Tubb's pdmusic, tho many untranscribed)(1859-1924)<br>
