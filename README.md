@@ -60,6 +60,7 @@ John Braham (1847-1919)<br>
 John Parry (Bardd Alaw) (1776-1851)<br>
 John Pond Ordway (1824-1880)<br>
 John Robson Sweney (1837-1899)<br>
+John T. Rutledge (1819-1884)<br>
 Joseph L Roeckel (1838-1923)<br>
 Joseph Paul Skelly (1850-1895)<br>
 Joseph Philip Knight (1812-1887) (Many are covered by Hudson)<br>
