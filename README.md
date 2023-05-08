@@ -14,6 +14,7 @@ Arthur Clifton (Philip Antony Corri) (See Benjamin Tubb's pdmusic, full collecti
 Arthur Henry Behrend (Behrend, A. H.) (1853-1935)<br>
 Arthur Lloyd (musical hall) (1839-1904)<br>
 Carrie Jacobs-Bond (1861-1946) (See Benjamin Tubb, tho some untranscribed)<br>
+Charles Duper Blake (1847-1903)<br>
 Charles Crozat Converse (1832-1918)<br>
 Charles Edward Horn (1786-1849)<br>
 Charles Gounod (1818-1893)<br>
@@ -64,6 +65,7 @@ Nelson Kneass (1823-1869)<br>
 Paul Dresser (1857-1906)<br>
 Philip Paul Bliss (See Benjamin Tubb's pdmusic) (1838-1876)<br>
 Ralph Vaughan Williams (1872-1958)<br>
+Robert Morrison Stults (1861-1933) <br>
 Sidney Nelson (S. Nelson) (1800-1862)<br>
 Stephen Collins Foster (see Werner Tomaschewski on musicanet, and Benjamin Tubb's pdmusic) (1826-1864)<br>
 Stephen Ralph Glover (Many are Hudson'ed) (1812 or 1813-1870)<br>
