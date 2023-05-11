@@ -15,9 +15,9 @@ Arthur Clifton (Philip Antony Corri) (See Benjamin Tubb's pdmusic, full collecti
 Arthur Henry Behrend (Behrend, A. H.) (1853-1935)<br>
 Arthur Lloyd (musical hall) (1839-1904)<br>
 Carrie Jacobs-Bond (1861-1946) (See Benjamin Tubb, tho some untranscribed)<br>
-Charles Duper Blake (1847-1903)<br>
 Charles Carroll Sawyer (1833-1890) (many are covered by Hudson) <br>
 Charles Crozat Converse (1832-1918)<br>
+Charles Duper Blake (1847-1903)<br>
 Charles Edward Horn (1786-1849)<br>
 Charles Gounod (1818-1893)<br>
 Charles Grobe (instrumental fantasia) (1817-1879)<br>
