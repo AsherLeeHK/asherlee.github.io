@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Victorian Music Archive</title>
+    <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
+    
+    <midi-player
+     src="midi_dir/anthony_heinrich/apheinrich_Forsaken_The.mid" sound-font visualizer="#myVisualizer" id="player">
+    </midi-player>
+    
+    <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
+
+<script>
+function changeSong(songname) {
+  ply = document.getElementById("player");
+  ply.stop();
+  ply.src = songname;
+  setTimeout(() => {  ply.start(); }, 4000);
+  
+}
+</script>
+
+  </head>
+  <body>
+    
+  <select name="sample" onchange="location = this.value;"> 
+     <option value="songlist.html">=============</option> 
+     <option value="songlist.html">Main Songlist</option> 
+     <option value="adam_geibel.html">Adam Geibel</option> 
+     <option value="alfred_scott_gatty.html">Alfred Scott-Gatty</option>
+     <option value="alfred_robyn.html">Alfred Robyn</option> 
+     <option value="anthony_heinrich.html">Anthony Heinrich</option>
+     <option value="charles_blake.html">Charles Blake</option> 
+     <option value="charles_glover.html">Charles Glover</option> 
+     <option value="charles_k_harris.html">Charles Kassel Harris</option>
+     <option value="charles_blake.html">Charles Blake</option>
+     <option value="charlotte_barnard.html">Charlotte Alington Barnard</option>
+     <option value="david_braham.html">David Braham</option>
+     <option value="eddie_fox.html">Eddie Fox</option> 
+     <option value="felix_mcglennon.html">Felix McGlennon</option> 
+     <option value="harrison_millard.html">Harrison Millard</option>
+     <option value="james_hook.html">James Hook</option> 
+     <option value="joseph_skelly.html">Joseph Skelly</option> 
+     <option value="michael_maybrick.html">Michael Maybrick</option> 
+     <option value="stephen_glover.html">Stephen Glover</option>
+     <option value="thomas_westendorf.html">Thomas Westendorf</option>
+     <option value="william_huntley.html">William Huntley</option>
+  </select> 
+    <h1>Anthony Philip Heinrich(1781-1861)</h1>
+    <p>Known as the "Beethoven of America". He was born in Bohemia in 1781 and emigrated to US in 1817. He is the first to write his large-scale orchestral works in America, 
+      by that time US orchestras were still developing.<br>
+      He also focused on piano instrumental pieces like waltzes and march. His vocal work also shows his focus in the instrumental parts, often with brilliant piano accompaniment</p>
+    <p>Song for Anthony Philip Heinrich<br>Most of his songs, are already transcribed by Robert A. Hudson on IMSLP.<br>
+      I imported his great job of MIDI transcriptions here for easier listening</p>
+
+    <table border="1">
+      <tr>
+        <th>Song Title</th>
+        <th>Trans. (mainly by Hudson)</th>
+        <th>Trans. by others</th>
+      </tr>
+
+<!--Arranged by Alphabetical-->
