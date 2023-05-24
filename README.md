@@ -53,6 +53,7 @@ J. W. Wheeler (active 1880s-1900s)<br>
 James Alan Bland (1854-1911)<br>
 James Hook (1746–1827)<br>
 John Hill Hewitt (1801-1890) (See Benjamin Tubb's pdmusic)<br>
+John Liptrot Hatton (1808-1886)<br>
 Jerome Keen (1885-1845)<br>
 John Barnett (1802-1890)<br>
 John Blockley (1801-1882)<br>
