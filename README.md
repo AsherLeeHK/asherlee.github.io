@@ -8,6 +8,7 @@ Some of which will be compiled as Special Collection Lists:
 
 Adam Geibel (1855-1933)<br>
 Alfred Lee (musical hall) (1839-1906)<br>
+Afred Hymphrey Pease (1838-1882)<br>
 Alfred George Robyn (Alfred G Robyn) (1860-1935)<br>
 Alfred Scott Scott-Gatty (1847-1918)<br>
 Anthony Philip Heinrich (1781-1861) (many are covered by Hudson) <br>
@@ -15,6 +16,7 @@ Arthur Clifton (Philip Antony Corri) (See Benjamin Tubb's pdmusic, full collecti
 Arthur Henry Behrend (Behrend, A. H.) (1853-1935)<br>
 Arthur Lloyd (musical hall) (1839-1904)<br>
 Carrie Jacobs-Bond (1861-1946) (See Benjamin Tubb, tho some untranscribed)<br>
+Charles Beach Hawley (1858-1915) <br>
 Charles Carroll Sawyer (1833-1890) (many are covered by Hudson) <br>
 Charles Crozat Converse (1832-1918)<br>
 Charles Duper Blake (1847-1903)<br>
@@ -39,7 +41,7 @@ George Arthur Barker (1812-1876)<br>
 George Gershwin (1898-1937)<br>
 George Linley (1797-1865)<br>
 Geoffrey Turton Shaw (1879-1943)<br>
-George W Persley (Geo W Persley)<br>
+George W Persley (Geo W Persley) (active 1870s-1880s)<br>
 George William Hunt (c. 1837-1904)<br>
 Gus Edwards (1878-1945)<br>
 Harrison Millard (1830-1895)<br>
@@ -54,7 +56,7 @@ James Alan Bland (1854-1911)<br>
 James Hook (1746–1827)<br>
 John Hill Hewitt (1801-1890) (See Benjamin Tubb's pdmusic)<br>
 John Liptrot Hatton (1808-1886)<br>
-Jerome Keen (1885-1845)<br>
+Jerome Kern (1885-1845)<br>
 John Barnett (1802-1890)<br>
 John Blockley (1801-1882)<br>
 John Braham (1847-1919)<br>
@@ -79,5 +81,6 @@ Stephen Collins Foster (see Werner Tomaschewski on musicanet, and Benjamin Tubb'
 Stephen Ralph Glover (Many are covered by Hudson) (1812 or 1813-1870)<br>
 Will Lamartine Thompson (1847-1909)<br>
 William Shakespeare (See Benjamin Tubb's pdmusic)(1837-1907)<br>
+Wintter Haynes Watts (1884-1962)<br>
 Victor August Herbert (See Benjamin Tubb's pdmusic, tho many untranscribed)(1859-1924)<br>
 Virginia Gabriel (1825-1877)<br>
