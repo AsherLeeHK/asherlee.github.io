@@ -1,10 +1,26 @@
 # victorian-music-catalog
-A catalog of olden vocal musical pieces, with my MIDI transcription, or links to transcription done by others. Most of my songs would be in Victorian period (1837-1901)
+
+##Intro
+
+A catalog of 1500-1927 vocal musical pieces, with my MIDI transcription, or links to transcription done by others. 
+
+My collection will focus on songs written in Victorian period (1837-1901).<br>
+Some post-1900 songs and will be also included.<br>
+(Thou this is the area that JPP and other MuseScore transcribers have been focusing on, esp. the ragtime pieces<br>
+I will turn to the less concerned and unearthed Victorian things instead)
+
+I'd also wish to showcase as many vocal pieces written in 1790-1830s.<br>
+I don't know why I am interested in that period too... <br>
+(for the great Thomas Moore songs, a salient work among all other early 1800s, refer to Alan Thompson's Songs,<br>
+I will also cover some too<br>
+He has done a great job on vocally covering them. His focus of songs is kind of like mine)
 
 Visit the link https://asherleehk.github.io/victorian-music-archive/songlist.html to view the list.
 
+##List of composers
+
 Non-exhausive list of 19th (some into late 18th and early 20th) century composers,
-Some of which will be compiled as Special Collection Lists:
+I would open a stand-alone Web Page for some of these names, if works are many (currently working on Charles Glover and Stephen Glover brothers):
 
 Adam Geibel (1855-1933)<br>
 Alfred Lee (musical hall) (1839-1906)<br>
@@ -20,6 +36,7 @@ Charles Beach Hawley (1858-1915) <br>
 Charles Carroll Sawyer (1833-1890) (many are covered by Hudson) <br>
 Charles Crozat Converse (1832-1918)<br>
 Charles Duper Blake (1847-1903)<br>
+Charles E. Pratt (1841-1902) <br>
 Charles Edward Horn (1786-1849)<br>
 Charles Gounod (1818-1893)<br>
 Charles Grobe (instrumental fantasia) (1817-1879)<br>
