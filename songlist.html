@@ -1,7 +1,21 @@
 <!DOCTYPE html>
 <html>
+<style>
+	#norightsreserved {
+	float: left;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	bottom: 0px;
+	width: 100%;
+}
+	</style>
+
+	
   <head>
     <meta charset="utf-8">
+	  
+	  
     <title>Victorian Music Archive</title>
     <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
     
@@ -20,17 +34,9 @@ function changeSong(songname) {
   
 }
 </script>
-
-#norightsreserved {
-	float: left;
-	padding-bottom: 10px;
-	padding-top: 10px;
-	text-align: center;
-	bottom: 0px;
-	width: 100%;
-}
     
   </head>
+	
   <body>
   <select name="sample" onchange="location = this.value;"> 
      <option value="songlist.html">=============</option> 
@@ -38,14 +44,11 @@ function changeSong(songname) {
      <option value="charles_glover.html">Charles Glover</option> 
      <option value="stephen_glover.html">Stephen Glover</option> 
   </select> 
-
-
+  
   <div id="norightsreserved">
       No right reserved.<br> All my contents (MIDIs) are up to you to freely distribute. <br> (and of course it's highly encouraged to do so, just spread my work!) <br>
       </div>
   
-
-    
     <h1>Welcome to Victorian Music Archive!</h1>
     <p>Here you can find the MIDI file for tons of songs written from the period 1500 to 1927</p>
     <h3>About the author:</h3>
